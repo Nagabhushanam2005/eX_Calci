@@ -1,8 +1,8 @@
 # eX_Calci
 #### 
-# Digital Expense Calculator
+#### Digital Expense Calculator
 
-## Abstract
+# Abstract
 
 This project's goal is to develop an expense calculator utilizing the concepts of digital systems. It combines hardware and software elements to produce an integrated system that can calculate expenses effectively. This project offers a chance to apply theoretical knowledge to a real-world situation in the field of digital systems, producing a useful and approachable expense calculator. This system puts forward an innovative solution to the user by keeping them conscious of the ongoing expenses through various mediums. Our motivation for this project includes:
 
@@ -30,7 +30,7 @@ The digital expense calculator system is a user-friendly tool designed to help i
 - **Budget Status:** The comparator module continuously monitors the budget status. When cumulative expenses exceed 90 percent of the budget, a yellow warning light is displayed to prompt caution. If the cumulative expenses exceed the total budget, a red warning light is activated.
 
 ---
-## Functional Table
+# Functional Table
 
 This table represents one iteration of input to be given into the system.
 
@@ -46,12 +46,22 @@ This table represents one iteration of input to be given into the system.
 | B        | 2000  | 7090       | 0         | 0          | 1       |
 
 ----
-## Flow of execution
+# Flow of execution
 ![Design-S2-T7-flow chart.png](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Design-S2-T7-flow%20chart.jpg)
 
 
 
 ----
+
+# Verilog Output
 ![Verilog output](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Verilog/verilog-output.png)
 
 ----
+## References
+
+1. [Implementation of Verilog HDL Calculator (PDF)](https://ir.unimas.my/id/eprint/33604/1/Implementation%20of%20Verilog%20HDL%2n%20Calculator.pdf)
+2. [Play with 16x2 LCD Display](https://circuit4us.medium.com/play-with-16x2-lcd-display-ca70a047af36)
+3. [3-Wire Serial LCD using a Shift Register](https://www.electronics-lab.com/project/3-wire-serial-lcd-using-a-shift-register)
+4. [Budget Calculator](https://www.calculator.net/budget-calculator.html)
+5. [Correct Way to Drive an LED using 74HCxx Logic](https://electronics.stackexchange.com/questions/376598/correct-way-to-drive-an-ledusing-74hcxx-logic)
+
