@@ -62,10 +62,9 @@
 
 ## Logisim Circuit Diagram
 <details>
-  <summary>Detail</summary>
-  ![logisim_circuit.png](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Snapshots/logisim_circuit.png)
-  https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/3275cc99-1ac2-42b3-a521-e5909de64531
-  [![Logisim Simulation]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Logisim%20simu.mp4)
+![logisim_circuit.png](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Snapshots/logisim_circuit.png)
+https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/3275cc99-1ac2-42b3-a521-e5909de64531
+[![Logisim Simulation]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Logisim%20simu.mp4)
 
 
 
@@ -76,11 +75,9 @@
 ## Hardware Implementation
 <details>
 
+https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/19a717a9-4854-4638-bff1-22b2db002038
 
-  https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/19a717a9-4854-4638-bff1-22b2db002038
-
-
-  [![Hardware Output]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Hardware.mp4)
+[![Hardware Output]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Hardware.mp4)
 </details>
 https://github.com/Nagabhushanam2005/eX_Calci/raw/main/Videos/Hardware.mp4
 
