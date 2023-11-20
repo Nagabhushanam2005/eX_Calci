@@ -66,14 +66,20 @@
 ![logisim_circuit.png](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Snapshots/logisim_circuit.png)
 [![Logisim Simulation]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Logisim%20simu.mp4)
 
+
+
 </details>
 
 ## Hardware Implementation
 <details>
 
+
+https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/19a717a9-4854-4638-bff1-22b2db002038
+
+
 [![Hardware Output]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Hardware.mp4)
 </details>
-
+https://github.com/Nagabhushanam2005/eX_Calci/raw/main/Videos/Hardware.mp4
 
 ## Verilog Code
 <details>
