@@ -16,7 +16,7 @@
 
 ## Abstract
 <details>
-  <summary>Detail</summary>
+  <summary>Abstract</summary>
 
   > This project's goal is to develop an expense calculator utilizing the concepts of digital systems. It combines hardware and software elements to produce an integrated system that can calculate expenses effectively. This project offers a chance to apply theoretical knowledge to a real-world situation in the field of digital systems, producing a useful and approachable expense calculator. This system puts forward an innovative solution to the user by keeping them conscious of the ongoing expenses through various mediums. Our motivation for this project includes:
   >
@@ -33,7 +33,7 @@
 
 ## Working
 <details>
-  <summary>Detail</summary>
+  <summary>Working</summary>
 
 ## Functional Table
 <details>
@@ -62,7 +62,7 @@
 
 ## Logisim Circuit Diagram
 <details>
-    <summary>Hardware</summary>
+    <summary>Logisim</summary>
   
 ![Logisim_circuit.png](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Snapshots/logisim_circuit.png)
 </details>
@@ -86,7 +86,7 @@
 
 ## Verilog Code
 <details>
-  <summary>Detail</summary>
+  <summary>VHDL code</summary>
 ```
 
     module Accumulator(
