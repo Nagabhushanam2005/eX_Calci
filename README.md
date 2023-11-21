@@ -35,7 +35,7 @@
 <details>
   <summary>Working</summary>
 
-## Functional Table
+### Functional Table
 <details>
   <summary>Table</summary>
 
