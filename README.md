@@ -72,15 +72,19 @@
   <summary>Hardware</summary>
   
   [![Hardware Output]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Hardware.mp4)
-  
-  https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/19a717a9-4854-4638-bff1-22b2db002038
+
+  https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/2f269da3-2dcf-47c4-9a50-cc531864c3b3
+
 </details>
 <details>
   <summary>Logisim</summary>
   
   [![Logisim Simulation]()](https://github.com/Nagabhushanam2005/eX_Calci/blob/main/Videos/Logisim%20simu.mp4)
-  
-  https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/3275cc99-1ac2-42b3-a521-e5909de64531
+
+
+  https://github.com/Nagabhushanam2005/eX_Calci/assets/122552163/8210795a-7243-4c5e-ba9e-373ef357824e
+
+
 
 </details>
 
